@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SakshiYadav2712
--   My name is Sakshi Babasaheb Yadav
+- My name is Sakshi Babasaheb Yadav
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning B.tech inn CS
+- 👀 SAP ABAP ON HANA certified
+- 🌱 I’m currently pursuing B.tech in CS
 - 📫 How to reach me @girllikea_sakshi on insta
 -  I want to participate in modeling shows, & become a Model in my future.
 
